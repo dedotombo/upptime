@@ -4,19 +4,19 @@
     "url": "https://www.informazionescuola.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.informazionescuola.it.ico",
     "slug": "informazione-scuola",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 450,
-    "timeWeek": 754,
-    "timeMonth": 805,
-    "timeYear": 805,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1477,
+    "timeDay": 4377,
+    "timeWeek": 2029,
+    "timeMonth": 1477,
+    "timeYear": 1477,
     "dailyMinutesDown": {
-      "2024-06-18": 0
+      "2024-06-18": 29
     }
   }
 ]
