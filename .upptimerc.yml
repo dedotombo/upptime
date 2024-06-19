@@ -3,6 +3,8 @@ owner: dedotombo # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
+  - name: wpimplementer.com
+    url: https://wpimplementer.com
   - name: Informazione Scuola
     url: https://www.informazionescuola.it
   - name: Macelleria Brocani 1921
