@@ -5,6 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Informazione Scuola
     url: https://www.informazionescuola.it
+  - name: Macelleria Brocani 1921
+    url: https://macelleriabrocani.com
+  - name: Avv. Fabiola Tombolini
+    url: https://fabiolatombolini.law
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
