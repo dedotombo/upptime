@@ -11,6 +11,8 @@ sites:
     url: https://macelleriabrocani.com
   - name: Studio Legale Fabiola Tombolini
     url: https://fabiolatombolini.law
+  - name: iPromptAI2
+    url: https://ipromptai2.wpimplementer.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
