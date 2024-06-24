@@ -5,14 +5,18 @@ repo: upptime # The name of this repository
 sites:
   - name: wpimplementer.com
     url: https://wpimplementer.com
+  - name: SignoriCaffè
+    url: https://www.signoricaffe.it
   - name: Informazione Scuola
     url: https://www.informazionescuola.it
   - name: Macelleria Brocani 1921
     url: https://macelleriabrocani.com
   - name: Studio Legale Fabiola Tombolini
     url: https://fabiolatombolini.law
+  - name: Chiropratica e Salute
+    url: https://chiropraticaesalute.it
   - name: iPromptAI2
-    url: https://ipromptai2.wpimplementer.com/
+    url: https://ipromptai2.wpimplementer.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
