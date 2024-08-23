@@ -83,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/macelleriabrocani.com.ico",
     "slug": "macelleria-brocani-1921",
     "status": "up",
-    "uptime": "98.27%",
+    "uptime": "98.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.27%",
+    "uptimeYear": "98.28%",
     "time": 862,
     "timeDay": 1082,
     "timeWeek": 1538,
@@ -128,9 +128,9 @@
     "url": "https://chiropraticaesalute.it",
     "icon": "https://icons.duckduckgo.com/ip3/chiropraticaesalute.it.ico",
     "slug": "chiropratica-e-salute",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -139,7 +139,9 @@
     "timeWeek": 789,
     "timeMonth": 766,
     "timeYear": 794,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-23": 0
+    }
   },
   {
     "name": "iPromptAI2",
