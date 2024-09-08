@@ -1,23 +1,22 @@
 [
   {
-    "name": "wpimplementer.com",
-    "url": "https://wpimplementer.com",
-    "icon": "https://icons.duckduckgo.com/ip3/wpimplementer.com.ico",
-    "slug": "wpimplementer-com",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "100.00%",
+    "name": "iPromptAI2",
+    "url": "https://ipromptai2.sdtprogetti.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ipromptai2.sdtprogetti.com.ico",
+    "slug": "i-prompt-ai-2",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.78%",
-    "time": 265,
-    "timeDay": 253,
-    "timeWeek": 289,
-    "timeMonth": 271,
-    "timeYear": 265,
+    "uptimeYear": "100.00%",
+    "time": 145,
+    "timeDay": 99,
+    "timeWeek": 142,
+    "timeMonth": 146,
+    "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-06-20": 922,
-      "2024-06-19": 495
+      "2024-09-08": 0
     }
   },
   {
@@ -31,33 +30,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1246,
-    "timeDay": 1264,
-    "timeWeek": 1296,
-    "timeMonth": 1185,
-    "timeYear": 1246,
+    "time": 1243,
+    "timeDay": 1143,
+    "timeWeek": 1256,
+    "timeMonth": 1179,
+    "timeYear": 1243,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Informazione Scuola",
-    "url": "https://www.informazionescuola.it",
-    "icon": "https://icons.duckduckgo.com/ip3/www.informazionescuola.it.ico",
-    "slug": "informazione-scuola",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.92%",
-    "time": 1118,
-    "timeDay": 669,
-    "timeWeek": 804,
-    "timeMonth": 1473,
-    "timeYear": 1118,
-    "dailyMinutesDown": {
-      "2024-08-23": 55,
-      "2024-06-18": 51
-    }
   },
   {
     "name": "Caffè Clemente",
@@ -70,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1270,
-    "timeDay": 831,
-    "timeWeek": 1214,
-    "timeMonth": 1454,
-    "timeYear": 1270,
+    "time": 1264,
+    "timeDay": 834,
+    "timeWeek": 1160,
+    "timeMonth": 1434,
+    "timeYear": 1264,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.61%",
-    "time": 852,
-    "timeDay": 832,
-    "timeWeek": 777,
-    "timeMonth": 981,
-    "timeYear": 852,
+    "time": 850,
+    "timeDay": 768,
+    "timeWeek": 766,
+    "timeMonth": 972,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2024-06-20": 1029,
       "2024-06-19": 585
@@ -109,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1043,
-    "timeDay": 858,
-    "timeWeek": 1005,
-    "timeMonth": 1004,
-    "timeYear": 1043,
+    "time": 1040,
+    "timeDay": 812,
+    "timeWeek": 971,
+    "timeMonth": 996,
+    "timeYear": 1040,
     "dailyMinutesDown": {
       "2024-08-03": 20,
       "2024-07-20": 19,
@@ -121,6 +99,27 @@
       "2024-07-01": 23,
       "2024-06-29": 18,
       "2024-06-27": 18
+    }
+  },
+  {
+    "name": "Informazione Scuola",
+    "url": "https://www.informazionescuola.it",
+    "icon": "https://icons.duckduckgo.com/ip3/www.informazionescuola.it.ico",
+    "slug": "informazione-scuola",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.92%",
+    "time": 1114,
+    "timeDay": 667,
+    "timeWeek": 784,
+    "timeMonth": 1448,
+    "timeYear": 1114,
+    "dailyMinutesDown": {
+      "2024-08-23": 55,
+      "2024-06-18": 51
     }
   },
   {
@@ -134,31 +133,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 781,
-    "timeDay": 651,
-    "timeWeek": 769,
-    "timeMonth": 740,
-    "timeYear": 781,
+    "time": 778,
+    "timeDay": 604,
+    "timeWeek": 738,
+    "timeMonth": 735,
+    "timeYear": 778,
     "dailyMinutesDown": {
       "2024-08-23": 16
     }
-  },
-  {
-    "name": "iPromptAI2",
-    "url": "https://ipromptai2.wpimplementer.com",
-    "icon": "https://icons.duckduckgo.com/ip3/ipromptai2.wpimplementer.com.ico",
-    "slug": "i-prompt-ai-2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 99,
-    "timeWeek": 142,
-    "timeMonth": 146,
-    "timeYear": 145,
-    "dailyMinutesDown": {}
   }
 ]
