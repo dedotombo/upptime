@@ -743,18 +743,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/valentinaottaviani.com.ico",
     "slug": "valentina-ottaviani",
     "status": "down",
-    "uptime": "5.03%",
-    "uptimeDay": "5.03%",
-    "uptimeWeek": "5.03%",
-    "uptimeMonth": "5.03%",
-    "uptimeYear": "5.03%",
+    "uptime": "1.59%",
+    "uptimeDay": "1.59%",
+    "uptimeWeek": "1.59%",
+    "uptimeMonth": "1.59%",
+    "uptimeYear": "1.59%",
     "time": 481,
     "timeDay": 481,
     "timeWeek": 481,
     "timeMonth": 481,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2024-09-27": 0
+      "2024-09-27": 1
     }
   }
 ]
