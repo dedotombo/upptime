@@ -15,8 +15,76 @@ sites:
     url: https://fabiolatombolini.law
   - name: Informazione Scuola
     url: https://www.informazionescuola.it
+  - name: Vita da Cani
+    url: https://vitadacani.info
+  - name: Association of Italian Chiropractors 50th Anniversary
+    url: https://www.aic50.it
+  - name: AIC Servizi srl
+    url: https://aicservizi.it
+  - name: Alessandro Archibugi & Figlio srl
+    url: https://archibugi.eu
   - name: Chiropratica e Salute
     url: https://chiropraticaesalute.it
+  - name: Chiropratica Today
+    url: https://chiropraticatoday.it
+  - name: Claudio Zara ortopedia
+    url: https://claudiozara.com
+  - name: Colorkid
+    url: https://colorkid.it
+  - name: FESTIVAL sotto il Conero
+    url: https://www.festivalsottoilconero.it
+  - name: Fullcolor Design
+    url: https://fullcolordesign.it
+  - name: Garantisco Io
+    url: https://www.garantiscoio.com
+  - name: Giacinto Facchetti Official Website
+    url: https://giacintofacchetti.org
+  - name: Gigi Simoni Official Website
+    url: https://gigisimoni.it
+  - name: Greison Anatomy
+    url: https://greisonanatomy.com
+  - name: Ristorante Marcello Portonovo
+    url: https://illaghetto.com
+  - name: Informazione Podcast
+    url: https://www.informazionepodcast.it
+  - name: Ristorante La Pagodina Numana
+    url: https://lapagodina.it
+  - name: marcotraferri.info
+    url: https://marcotraferri.info
+  - name: Marco Traferri Editore
+    url: https://marcotraferrieditore.com
+  - name: Marybloom
+    url: https://marybloom.it
+  - name: Mete d'Italia
+    url: https://www.meteditalia.it
+  - name: Osteopatia Magazine
+    url: https://osteopatiamagazine.com
+  - name: Ottica Pergolesi Store
+    url: https://otticapergolesistore.com
+  - name: Pesci Fuor d'Acqua
+    url: https://pescifuordacqua.it
+  - name: PESMOD
+    url: https://pesmod.it
+  - name: Piergiorgio Ramello Photography
+    url: https://piergiorgioramello.com
+  - name: Riparazioni Online
+    url: https://www.riparazionionline.com
+  - name: Salute Today
+    url: https://salutetoday.info
+  - name: Sarai Belo Te
+    url: https://saraibelote.com
+  - name: Sfoglina Simonetta
+    url: https://sfoglinasimonetta.it
+  - name: Stop & Go Ancona
+    url: https://stopgoancona.com
+  - name: Studio Chiropratico Schultz
+    url: https://studio-chiropratico-schultz.it
+  - name: Texcolor
+    url: https://texcolor.it
+  - name: Un biglietto per Gaia
+    url: https://unbigliettopergaia.it
+  - name: Valentina Ottaviani
+    url: https://valentinaottaviani.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
