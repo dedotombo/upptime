@@ -299,18 +299,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fullcolordesign.it.ico",
     "slug": "fullcolor-design",
     "status": "down",
-    "uptime": "67.47%",
+    "uptime": "65.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "12.70%",
-    "uptimeMonth": "67.47%",
-    "uptimeYear": "67.47%",
+    "uptimeWeek": "5.68%",
+    "uptimeMonth": "65.75%",
+    "uptimeYear": "65.75%",
     "time": 2768,
     "timeDay": 347,
     "timeWeek": 965,
     "timeMonth": 2768,
     "timeYear": 2768,
     "dailyMinutesDown": {
-      "2024-10-16": 574,
+      "2024-10-16": 1281,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -650,9 +650,9 @@
     "url": "https://saraibelote.com",
     "icon": "https://icons.duckduckgo.com/ip3/saraibelote.com.ico",
     "slug": "sarai-belo-te",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -661,7 +661,9 @@
     "timeWeek": 5791,
     "timeMonth": 4858,
     "timeYear": 4858,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-16": 0
+    }
   },
   {
     "name": "Sfoglina Simonetta",
@@ -770,7 +772,7 @@
     "timeMonth": 426,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2024-10-16": 574,
+      "2024-10-16": 1281,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
