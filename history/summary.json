@@ -299,18 +299,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fullcolordesign.it.ico",
     "slug": "fullcolor-design",
     "status": "down",
-    "uptime": "65.73%",
+    "uptime": "65.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "5.57%",
-    "uptimeMonth": "65.73%",
-    "uptimeYear": "65.73%",
+    "uptimeWeek": "5.27%",
+    "uptimeMonth": "65.66%",
+    "uptimeYear": "65.66%",
     "time": 2768,
     "timeDay": 347,
     "timeWeek": 965,
     "timeMonth": 2768,
     "timeYear": 2768,
     "dailyMinutesDown": {
-      "2024-10-16": 1292,
+      "2024-10-16": 1322,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -614,10 +614,10 @@
     "url": "https://www.riparazionionline.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.riparazionionline.com.ico",
     "slug": "riparazioni-online",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2819,
@@ -625,7 +625,9 @@
     "timeWeek": 2763,
     "timeMonth": 2819,
     "timeYear": 2819,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-16": 1
+    }
   },
   {
     "name": "Salute Today",
@@ -651,19 +653,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/saraibelote.com.ico",
     "slug": "sarai-belo-te",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4739,
     "timeDay": 4108,
     "timeWeek": 5346,
     "timeMonth": 4739,
     "timeYear": 4739,
-    "dailyMinutesDown": {
-      "2024-10-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sfoglina Simonetta",
@@ -772,7 +772,7 @@
     "timeMonth": 426,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2024-10-16": 1292,
+      "2024-10-16": 1323,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
