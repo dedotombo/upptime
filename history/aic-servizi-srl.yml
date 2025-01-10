@@ -1,7 +1,7 @@
 url: https://aicservizi.it
-status: up
-code: 200
-responseTime: 3325
-lastUpdated: 2025-01-10T19:44:25.059Z
+status: down
+code: 403
+responseTime: 745
+lastUpdated: 2025-01-10T20:31:16.769Z
 startTime: 2024-09-27T14:39:59.413Z
 generator: Upptime <https://github.com/upptime/upptime>
