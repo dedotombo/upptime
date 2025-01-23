@@ -26,9 +26,9 @@
     "url": "https://www.signoricaffe.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.signoricaffe.it.ico",
     "slug": "signori-caffe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 1752,
     "timeMonth": 1400,
     "timeYear": 1291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-23": 0
+    }
   },
   {
     "name": "Caffè Clemente",
@@ -133,12 +135,12 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2726,
     "timeDay": 2282,
-    "timeWeek": 2665,
-    "timeMonth": 2708,
+    "timeWeek": 2601,
+    "timeMonth": 2697,
     "timeYear": 2726,
     "dailyMinutesDown": {
       "2024-12-23": 21
