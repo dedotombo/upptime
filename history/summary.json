@@ -89,7 +89,7 @@
     "url": "https://fabiolatombolini.law",
     "icon": "https://icons.duckduckgo.com/ip3/fabiolatombolini.law.ico",
     "slug": "studio-legale-fabiola-tombolini",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "96.59%",
     "uptimeWeek": "98.69%",
@@ -101,6 +101,7 @@
     "timeMonth": 822,
     "timeYear": 1023,
     "dailyMinutesDown": {
+      "2025-02-15": 0,
       "2025-02-14": 49,
       "2025-02-13": 41,
       "2025-02-12": 43,
