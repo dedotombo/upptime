@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 199,
-    "timeDay": 192,
-    "timeWeek": 200,
+    "timeDay": 207,
+    "timeWeek": 207,
     "timeMonth": 209,
     "timeYear": 203,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
-    "time": 3256,
-    "timeDay": 5407,
-    "timeWeek": 5275,
-    "timeMonth": 5252,
-    "timeYear": 4026,
+    "time": 3263,
+    "timeDay": 4382,
+    "timeWeek": 5063,
+    "timeMonth": 5214,
+    "timeYear": 4035,
     "dailyMinutesDown": {
       "2026-01-12": 19,
       "2026-01-07": 20,
@@ -55,14 +55,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1197,
-    "timeDay": 975,
-    "timeWeek": 1217,
-    "timeMonth": 1178,
+    "time": 1196,
+    "timeDay": 1143,
+    "timeWeek": 1175,
+    "timeMonth": 1177,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2025-05-12": 32,
-      "2025-01-20": 18
+      "2025-05-12": 32
     }
   },
   {
@@ -71,18 +70,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.abbadiaturismo.it.ico",
     "slug": "abbadia-turismo",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "90.83%",
-    "uptimeWeek": "93.60%",
-    "uptimeMonth": "95.51%",
-    "uptimeYear": "99.32%",
-    "time": 3778,
-    "timeDay": 3535,
-    "timeWeek": 4002,
-    "timeMonth": 5630,
-    "timeYear": 3841,
+    "uptime": "99.37%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "93.69%",
+    "uptimeMonth": "95.53%",
+    "uptimeYear": "99.31%",
+    "time": 3783,
+    "timeDay": 3444,
+    "timeWeek": 3970,
+    "timeMonth": 5639,
+    "timeYear": 3847,
     "dailyMinutesDown": {
-      "2026-01-19": 124,
+      "2026-01-19": 115,
       "2026-01-18": 90,
       "2026-01-17": 182,
       "2026-01-16": 45,
@@ -121,7 +120,7 @@
       "2025-12-02": 99,
       "2025-11-30": 119,
       "2025-11-28": 46,
-      "2025-11-27": 315
+      "2025-11-27": 348
     }
   },
   {
@@ -135,11 +134,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 695,
-    "timeDay": 1511,
-    "timeWeek": 879,
-    "timeMonth": 806,
-    "timeYear": 681,
+    "time": 697,
+    "timeDay": 1549,
+    "timeWeek": 979,
+    "timeMonth": 841,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2025-12-05": 21
     }
