@@ -70,17 +70,17 @@
     "url": "https://www.abbadiaturismo.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.abbadiaturismo.it.ico",
     "slug": "abbadia-turismo",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "93.75%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "93.74%",
     "uptimeWeek": "92.76%",
     "uptimeMonth": "93.79%",
     "uptimeYear": "99.38%",
-    "time": 3752,
-    "timeDay": 2503,
-    "timeWeek": 3421,
-    "timeMonth": 4938,
-    "timeYear": 3815,
+    "time": 3748,
+    "timeDay": 2305,
+    "timeWeek": 3379,
+    "timeMonth": 4917,
+    "timeYear": 3811,
     "dailyMinutesDown": {
       "2026-01-27": 70,
       "2026-01-26": 180,
@@ -118,7 +118,7 @@
       "2025-12-13": 82,
       "2025-12-12": 51,
       "2025-12-11": 45,
-      "2025-12-10": 95
+      "2025-12-10": 72
     }
   },
   {
