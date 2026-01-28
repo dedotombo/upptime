@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 201,
-    "timeDay": 245,
-    "timeWeek": 232,
-    "timeMonth": 215,
-    "timeYear": 204,
+    "timeDay": 323,
+    "timeWeek": 256,
+    "timeMonth": 218,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2025-11-18": 135
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.96%",
-    "time": 3362,
-    "timeDay": 7865,
-    "timeWeek": 6225,
-    "timeMonth": 5498,
-    "timeYear": 4131,
+    "time": 3372,
+    "timeDay": 7391,
+    "timeWeek": 6330,
+    "timeMonth": 5514,
+    "timeYear": 4146,
     "dailyMinutesDown": {
       "2026-01-27": 32,
       "2026-01-22": 39,
@@ -57,10 +57,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1183,
-    "timeDay": 1218,
-    "timeWeek": 1177,
-    "timeMonth": 1177,
-    "timeYear": 1195,
+    "timeDay": 914,
+    "timeWeek": 1182,
+    "timeMonth": 1168,
+    "timeYear": 1196,
     "dailyMinutesDown": {
       "2025-05-12": 32
     }
@@ -72,15 +72,15 @@
     "slug": "abbadia-turismo",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "92.60%",
+    "uptimeDay": "93.95%",
     "uptimeWeek": "92.60%",
     "uptimeMonth": "93.75%",
     "uptimeYear": "99.38%",
     "time": 3750,
-    "timeDay": 2592,
-    "timeWeek": 3403,
-    "timeMonth": 4917,
-    "timeYear": 3813,
+    "timeDay": 2659,
+    "timeWeek": 3415,
+    "timeMonth": 4910,
+    "timeYear": 3814,
     "dailyMinutesDown": {
       "2026-01-27": 87,
       "2026-01-26": 180,
@@ -133,10 +133,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 700,
-    "timeDay": 1023,
-    "timeWeek": 846,
-    "timeMonth": 843,
-    "timeYear": 683,
+    "timeDay": 701,
+    "timeWeek": 806,
+    "timeMonth": 838,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2025-12-05": 21
     }
