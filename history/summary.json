@@ -73,17 +73,17 @@
     "slug": "abbadia-turismo",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "89.78%",
-    "uptimeMonth": "91.86%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "91.21%",
+    "uptimeMonth": "91.88%",
     "uptimeYear": "99.23%",
     "time": 3743,
     "timeDay": 3602,
-    "timeWeek": 3872,
+    "timeWeek": 3966,
     "timeMonth": 3585,
     "timeYear": 3803,
     "dailyMinutesDown": {
-      "2026-02-15": 26,
+      "2026-02-15": 16,
       "2026-02-14": 124,
       "2026-02-13": 48,
       "2026-02-12": 180,
@@ -118,7 +118,7 @@
       "2026-01-12": 169,
       "2026-01-11": 48,
       "2026-01-10": 22,
-      "2026-01-09": 18
+      "2026-01-09": 45
     }
   },
   {
