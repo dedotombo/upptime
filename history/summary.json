@@ -32,7 +32,7 @@
     "uptimeYear": "99.96%",
     "time": 3646,
     "timeDay": 7474,
-    "timeWeek": 5482,
+    "timeWeek": 5538,
     "timeMonth": 6258,
     "timeYear": 4506,
     "dailyMinutesDown": {
@@ -59,7 +59,7 @@
     "uptimeYear": "99.99%",
     "time": 1177,
     "timeDay": 1125,
-    "timeWeek": 983,
+    "timeWeek": 1005,
     "timeMonth": 1146,
     "timeYear": 1182,
     "dailyMinutesDown": {
@@ -71,17 +71,17 @@
     "url": "https://www.abbadiaturismo.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.abbadiaturismo.it.ico",
     "slug": "abbadia-turismo",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "95.99%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "95.97%",
     "uptimeWeek": "92.77%",
     "uptimeMonth": "91.57%",
     "uptimeYear": "99.22%",
-    "time": 3748,
-    "timeDay": 3504,
-    "timeWeek": 3912,
-    "timeMonth": 3647,
-    "timeYear": 3818,
+    "time": 3745,
+    "timeDay": 2924,
+    "timeWeek": 3792,
+    "timeMonth": 3635,
+    "timeYear": 3815,
     "dailyMinutesDown": {
       "2026-02-22": 58,
       "2026-02-21": 130,
@@ -117,7 +117,7 @@
       "2026-01-20": 35,
       "2026-01-19": 115,
       "2026-01-18": 90,
-      "2026-01-17": 46
+      "2026-01-17": 24
     }
   },
   {
@@ -133,7 +133,7 @@
     "uptimeYear": "99.99%",
     "time": 711,
     "timeDay": 1057,
-    "timeWeek": 784,
+    "timeWeek": 801,
     "timeMonth": 848,
     "timeYear": 673,
     "dailyMinutesDown": {
