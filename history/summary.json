@@ -34,7 +34,7 @@
     "timeDay": 6008,
     "timeWeek": 6461,
     "timeMonth": 6444,
-    "timeYear": 4642,
+    "timeYear": 4633,
     "dailyMinutesDown": {
       "2026-01-28": 37,
       "2026-01-27": 32,
@@ -61,7 +61,7 @@
     "timeDay": 1012,
     "timeWeek": 1121,
     "timeMonth": 1084,
-    "timeYear": 1182,
+    "timeYear": 1180,
     "dailyMinutesDown": {
       "2025-05-12": 32
     }
@@ -71,18 +71,19 @@
     "url": "https://www.abbadiaturismo.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.abbadiaturismo.it.ico",
     "slug": "abbadia-turismo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "93.17%",
-    "uptimeMonth": "92.07%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "94.02%",
+    "uptimeMonth": "92.28%",
     "uptimeYear": "99.15%",
     "time": 3778,
-    "timeDay": 10954,
-    "timeWeek": 4557,
-    "timeMonth": 3981,
-    "timeYear": 3866,
+    "timeDay": 5569,
+    "timeWeek": 4680,
+    "timeMonth": 4009,
+    "timeYear": 3869,
     "dailyMinutesDown": {
+      "2026-03-06": 0,
       "2026-03-05": 48,
       "2026-03-04": 57,
       "2026-03-03": 84,
@@ -118,8 +119,7 @@
       "2026-02-01": 142,
       "2026-01-30": 196,
       "2026-01-28": 126,
-      "2026-01-27": 87,
-      "2026-01-26": 19
+      "2026-01-27": 87
     }
   },
   {
@@ -137,7 +137,7 @@
     "timeDay": 623,
     "timeWeek": 781,
     "timeMonth": 843,
-    "timeYear": 677,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2026-02-16": 21,
       "2025-12-05": 21
